@@ -3,7 +3,7 @@
 #include <softPwm.h>
 #include <unistd.h>
 
-#define SERVO 1 //gpio 번호
+#define SERVO 0 //gpio 번호
 
 int main()
 {
